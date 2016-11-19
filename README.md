@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-http://imgur.com/a/PdB9d
+http://imgur.com/a/RtlGe
 
 ## Usage
 
