@@ -4,6 +4,8 @@
 
 http://imgur.com/a/PdB9d
 
+## Usage
+
 Open Google Chrome (or Firefox for you heathens).
 
 Go to http://slither.io
